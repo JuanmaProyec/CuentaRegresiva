@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CuentaRegresiva.Models
 {
-    public class School //ENTIDAD ESCUELA int, decimal, string
+    public class City //ENTIDAD Ciudad  int, decimal, string
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
